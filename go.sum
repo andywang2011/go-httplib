@@ -1,4 +1,4 @@
-github.com/andywang2011/go-logging v0.2.0 h1:4YzSmwBcQWkLaGm+sFEpPxuOzvEdQ2CqRLruorTlgqs=
-github.com/andywang2011/go-logging v0.2.0/go.mod h1:E6DBNkq8TcjXHSefzB7OLz5kcWe9Vr2zR8/tcdtOHiw=
+github.com/andywang2011/go-logging v0.3.0 h1:pVr183CyWh13c9Zk5pVfLmNfMNu5YTM5UcLUtQgKj/8=
+github.com/andywang2011/go-logging v0.3.0/go.mod h1:E6DBNkq8TcjXHSefzB7OLz5kcWe9Vr2zR8/tcdtOHiw=
 gopkg.in/natefinch/lumberjack.v2 v2.2.1 h1:bBRl1b0OH9s/DuPhuXpNl+VtCaJXFZ5/uEFST95x9zc=
 gopkg.in/natefinch/lumberjack.v2 v2.2.1/go.mod h1:YD8tP3GAjkrDg1eZH7EGmyESg/lsYskCTPBJVb9jqSc=
